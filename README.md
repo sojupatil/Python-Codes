@@ -6,7 +6,7 @@ About This Repository
 
 This repository contains 100 mini projects focused on Python programming. Each project covers different topics, demonstrating practical implementations of Python concepts.
 
-## [Project #1 - Stock Price Comparison](https://github.com/yourusername/repository-name/blob/main/project1.py)
+## [Project #1 - Simple Comparator](https://github.com/yourusername/repository-name/blob/main/project1.py)
 Overview
 
 This project compares stock prices using lists, tuples, and dictionaries. It takes user input for stock names and prices, then determines which stock has a higher price using if-else conditions.
