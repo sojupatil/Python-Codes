@@ -6,7 +6,7 @@ About This Repository
 
 This repository contains 100 mini projects focused on Python programming. Each project covers different topics, demonstrating practical implementations of Python concepts.
 
- ## [1 - Simple Comparator](https://github.com/yourusername/repository-name/blob/main/project1.py)
+ ## [1 - Simple Comparator](https://github.com/sojupatil/Python-Mini-Projects/blob/main/SimpleComparator.py)
  
 Overview
 
