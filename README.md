@@ -22,7 +22,7 @@ This Code compares stock prices using lists, tuples, and dictionaries. It takes 
 
 **If-Else Statements** → Compares stock prices and prints the result.
 
- ## [1 - Temperature Scale Converter](https://github.com/sojupatil/Python-Mini-Projects/blob/main/SimpleComparator.py)
+ ## [1 - Temperature Scale Converter](https://github.com/sojupatil/Python-Codes/blob/main/Temperature.py)
  
 ### Overview
 
